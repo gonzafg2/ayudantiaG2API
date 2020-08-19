@@ -1,0 +1,14 @@
+.container{
+    margin: 50px;
+    padding: 30px;
+    border: 1px solid black;
+    background-color: blanchedalmond;
+
+}
+
+select, label, input {
+   width: 100%;
+   padding: 10px;
+   font-size: 18px;
+   border-radius: 5px;
+}
